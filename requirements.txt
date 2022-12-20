@@ -1,0 +1,2 @@
+beautifulsoup4==4.11.1
+jaraco.util==15.0.0
