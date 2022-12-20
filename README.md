@@ -1,4 +1,4 @@
-# Platzi Helper & Course Downloader
+# Platzi Helper
 Este código permite recopilar y consultar información sobre preguntas y respuestas. Al ejecutar el código, se le preguntará al usuario si desea recopilar o consultar información.
 
 ## Modo de recopilación
